@@ -24,10 +24,6 @@ DB_CONNECTION=Host=localhost;Port=5432;Database=storage_db;Username=postgres;Pas
 
 Зайдите в solution FuturesDiff
 
-```bash
-cd FuturesDiff-main\FuturesDiff
-```
-
 ### MarketDataService
 
 1. Заходим в папку сервиса
@@ -70,10 +66,30 @@ cd StorageService
 dotnet run --urls "https://localhost:5002"
 ```
 
+## Куда заходить чтобы протестировать?
+
+```bash
+https://localhost:5002/swagger
+```
+
 ## Данные для использования
 
 Тестирование прходило на паре BTC
 
-1. Пара - BTCUSDT_250627
+1. Пара BTCUSDT_250627
+
+```bash
+BTCUSDT_250627
+```
 
 2. Пара - BTCUSDT_250926
+
+```bash
+BTCUSDT_250926
+```
+
+3. Интервал 1 день
+
+```bash
+1d
+```
