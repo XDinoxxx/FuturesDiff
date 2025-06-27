@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qjH94XYVwY4MnDP1ai6l0sWVeDgEPpVV07LzPZ3Tuag=",
+  "Source": "CalculationService",
+  "BasePath": "_content/CalculationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
