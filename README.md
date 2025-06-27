@@ -22,7 +22,7 @@ DB_CONNECTION=Host=localhost;Port=5432;Database=storage_db;Username=postgres;Pas
 
 Каждый микросервис - отдельный Web Api
 
-Зайдите в solution FuturesDiff
+Зайдите в папку с solution FuturesDiff
 
 ### MarketDataService
 
