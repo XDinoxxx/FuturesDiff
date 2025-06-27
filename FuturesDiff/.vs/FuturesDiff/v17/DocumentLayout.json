@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\GitHub\\FuturesDiff\\FuturesDiff\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{05AAA748-47E9-4006-A496-E49386B5140C}|StorageService\\StorageService.csproj|d:\\github\\futuresdiff\\futuresdiff\\storageservice\\storageservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05AAA748-47E9-4006-A496-E49386B5140C}|StorageService\\StorageService.csproj|solutionrelative:storageservice\\storageservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2C5B13F-B14A-4A92-B7F0-D6918A9E5269}|Shared\\Shared.csproj|d:\\github\\futuresdiff\\futuresdiff\\shared\\models\\candlediffdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2C5B13F-B14A-4A92-B7F0-D6918A9E5269}|Shared\\Shared.csproj|solutionrelative:shared\\models\\candlediffdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{05AAA748-47E9-4006-A496-E49386B5140C}|StorageService\\StorageService.csproj|d:\\github\\futuresdiff\\futuresdiff\\storageservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{05AAA748-47E9-4006-A496-E49386B5140C}|StorageService\\StorageService.csproj|solutionrelative:storageservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AAA748-47E9-4006-A496-E49386B5140C}|StorageService\\StorageService.csproj|d:\\github\\futuresdiff\\futuresdiff\\storageservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AAA748-47E9-4006-A496-E49386B5140C}|StorageService\\StorageService.csproj|solutionrelative:storageservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979E8F57-98F5-4837-B2FF-452AD6E64E94}|CalculationService\\CalculationService.csproj|d:\\github\\futuresdiff\\futuresdiff\\calculationservice\\calculationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{979E8F57-98F5-4837-B2FF-452AD6E64E94}|CalculationService\\CalculationService.csproj|solutionrelative:calculationservice\\calculationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StorageService",
+              "DocumentMoniker": "D:\\GitHub\\FuturesDiff\\FuturesDiff\\StorageService\\StorageService.csproj",
+              "RelativeDocumentMoniker": "StorageService\\StorageService.csproj",
+              "ToolTip": "D:\\GitHub\\FuturesDiff\\FuturesDiff\\StorageService\\StorageService.csproj",
+              "RelativeToolTip": "StorageService\\StorageService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T17:49:58.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\GitHub\\FuturesDiff\\FuturesDiff\\StorageService\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "StorageService\\Data\\AppDbContext.cs",
               "ToolTip": "D:\\GitHub\\FuturesDiff\\FuturesDiff\\StorageService\\Data\\AppDbContext.cs",
               "RelativeToolTip": "StorageService\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T16:36:26.076Z",
+              "WhenOpened": "2025-06-27T17:44:01.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandleDiffDb.cs",
+              "DocumentMoniker": "D:\\GitHub\\FuturesDiff\\FuturesDiff\\Shared\\Models\\CandleDiffDb.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\CandleDiffDb.cs",
+              "ToolTip": "D:\\GitHub\\FuturesDiff\\FuturesDiff\\Shared\\Models\\CandleDiffDb.cs",
+              "RelativeToolTip": "Shared\\Models\\CandleDiffDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:42:20.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculationService",
+              "DocumentMoniker": "D:\\GitHub\\FuturesDiff\\FuturesDiff\\CalculationService\\CalculationService.csproj",
+              "RelativeDocumentMoniker": "CalculationService\\CalculationService.csproj",
+              "ToolTip": "D:\\GitHub\\FuturesDiff\\FuturesDiff\\CalculationService\\CalculationService.csproj",
+              "RelativeToolTip": "CalculationService\\CalculationService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T17:22:22.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\FuturesDiff\\FuturesDiff\\StorageService\\Program.cs",
+              "RelativeDocumentMoniker": "StorageService\\Program.cs",
+              "ToolTip": "D:\\GitHub\\FuturesDiff\\FuturesDiff\\StorageService\\Program.cs",
+              "RelativeToolTip": "StorageService\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T17:16:33.02Z",
               "EditorCaption": ""
             }
           ]
